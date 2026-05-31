@@ -48,7 +48,16 @@ Netflix Movies and TV Shows Dataset
 * data_cleaning.ipynb
 * summary_before_cleaning.txt
 * summary_after_cleaning.txt
+## Screenshots
 
+### Dataset Preview
+![Dataset Preview](screenshots/dataset_preview.png)
+
+### Missing Values Before Cleaning
+![Missing Values Before](screenshots/missing_values_before.png)
+
+### Missing Values After Cleaning
+![Missing Values After](screenshots/missing_values_after.png)
 ## Outcome
 
 The dataset was successfully cleaned and prepared for further analysis and visualization.
